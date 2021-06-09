@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1591034843 source:p:\study\programs\game_of_life_final_project\game_of_life_cpp\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
+1591025377 p:\study\programs\game_of_life_final_project\game_of_life_cpp\game_of_life.h
+	<string>
+	<fstream>
+	<sstream>
+	"iostream"
+
